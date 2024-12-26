@@ -1,4 +1,4 @@
-## practical 5 - WAP to swap the first n characters of two strings .
+## practical 7 - WAP to swap the first n characters of two strings .
 
 str1 =input("enter first string ")
 
